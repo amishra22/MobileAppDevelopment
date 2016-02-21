@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Library</string>
+    <string name="action_settings">Settings</string>
+    <string name="back_to_list">BackToList</string>
+    <string name="title_activity_movie_update">MovieUpdate</string>
+    <string-array name="genreValues">
+
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+
+    </string-array>
+</resources>
