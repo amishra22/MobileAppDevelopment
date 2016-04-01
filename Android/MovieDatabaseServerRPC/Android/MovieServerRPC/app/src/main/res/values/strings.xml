@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="action_settings">Add Movie</string>
+    <string name="back_to_list">BackToList</string>
+    <string name="refresh_list">Refresh</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="rated">Rating</string>
+    <string name="realeased">Released year</string>
+    <string name="runtime">Runtime</string>
+    <string name="actors">Actors</string>
+    <string name="plot">Plot</string>
+    <string name="genretype1">Adventure</string>
+    <string name="genretype2">Action</string>
+    <string name="genretype3">Comedy</string>
+    <string name="genretype4">Drama</string>
+    <string name="genretype5">Animation</string>
+    <string name="genretype">Select the genre of movie</string>
+    <string name="title_activity_display_movie_details">Movie Details</string>
+    <string name="url">http://10.0.2.2:8080</string>
+</resources>
